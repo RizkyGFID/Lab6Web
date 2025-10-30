@@ -8,6 +8,7 @@ Disini saya akan mengambil layout web dari praktikum 4, dan saya akan buat ulang
 menggunakan Bootstrap Grid System
 
 Berikut adalah kodenya
+
 ```
 <!DOCTYPE html>
 <html lang="id">
