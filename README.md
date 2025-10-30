@@ -95,6 +95,8 @@ Maka tampilannya seperti berikut
 
 <img src="Langkah 1.png" alt="Tutorial" width="400">
 
+# Refaktur Form Input 24 Praktikum 5
+
 Selanjutnya disini saya akan membuat ulang form input 24 supaya jadi terlihat lebih rapih dengan menggunakan class-class
 form bootstrap (.form-control, .form-label, .btn), kodenya sebagai berikut
 
@@ -123,6 +125,8 @@ form bootstrap (.form-control, .form-label, .btn), kodenya sebagai berikut
 Maka tampilannya jadi seperti berikut
 
 <img src="Langkah 2.png" alt="Tutorial" width="400">
+
+# Membuat Portofolio Menggunakan HTML Dan Bootstrap
 
 Lalu disini, saya juga membuat Portofolio juga dengan menggunakan bootstrap dengan kode berikut
 
